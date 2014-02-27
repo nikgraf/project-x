@@ -1,0 +1,5 @@
+name: ProjectX
+author: Nik Graf & Dmitry Evseev
+description: A sample application written in Angular.dart
+dependencies:
+  angular: any
